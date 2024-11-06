@@ -1,0 +1,6 @@
+*example.txt*
+dist/
+.env
+tasker-venv/
+__pycache__/
+Installation Instructions.txt
